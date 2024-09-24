@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Documentación SIU OPM
+description: Guia de usuario para navegar en la plataforma SIU
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://michoacano094.github.io/siu-opm/
+
+permalink: pretty
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  warning:
+    title: Advertencia
+    color: red
+  info:
+    title: Información
+    color: blue
