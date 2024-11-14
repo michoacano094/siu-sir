@@ -1,28 +1,22 @@
 ---
 layout: home
 title: Dashboard
-nav_order: 2
+nav_order: 0
 ---
 
 # Dashboard
 {: .no_toc }
 
-En esta sección podras encontrar estadisticas a nivel campus de las inscripciones y el estado de estas dentro de la plataforma.
+En esta sección podrás encontrar estadísticas a nivel campus de las inscripciones y el estado de estas dentro de la plataforma.
 {: .fs-6 .fw-300 }
 
-[![Captura de pantalla del dashboard de SIU](assets/images/dashboard.png)](assets/images/dashboard.png)
+[![Captura de pantalla del dashboard de SIR](assets/images/dashboard.png)](assets/images/dashboard.png)
+Imagen 1. Dashboard
 
-## Tabla de contenido
-{: .no_toc .text-delta }
+## Reporte de inscripciones por estatus y nivel
 
-1. TOC
-{:toc}
+En esta pantalla será posible la generación de un reporte general o un reporte de una alianza en específico en donde se muestra el total de las inscripciones por estatus y nivel. 
 
----
+[![Captura de pantalla del dashboard de SIR](assets/images/reportes_dashboard.png)](assets/images/resportes_dashboard.png)
 
-## Configuración
-
-Esta pantalla es generada mediante 2 confiruaciones basicas.
-
-1.  Los campus mostrados son los que estan cofnigurados para el usuario con el que se tiene la sesión iniciada.
-2.  Los niveles mostrados son los que estan configurados en el sistema.
+Imagen 2. Reportes del dashoboard
